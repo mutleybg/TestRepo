@@ -2,7 +2,8 @@ package pack1;
 
 import org.junit.Test;
 
-public class Test1 {
+@Deprecated
+public class Test1Pack1 {
     @Test
     public void test1(){
         System.out.println("Test1 - test1");

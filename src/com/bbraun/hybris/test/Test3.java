@@ -1,4 +1,4 @@
-package pack1;
+package com.bbraun.hybris.test;
 
 import org.junit.Test;
 

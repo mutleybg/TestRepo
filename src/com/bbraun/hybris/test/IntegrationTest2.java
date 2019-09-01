@@ -1,8 +1,10 @@
-package pack1;
+package com.bbraun.hybris.test;
 
+import de.hybris.bootstrap.annotations.IntegrationTest;
 import org.junit.Test;
 
-public class Test2 {
+@IntegrationTest
+public class IntegrationTest2 {
     @Test
     public void test1(){
         System.out.println("Test2 - test1");
